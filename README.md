@@ -1,4 +1,4 @@
 # Exercicio em Python
 
-Jogo do Nim (curso da USP-Coursera) 
-Jogo da forca
+- Jogo do Nim (Curso Python USP-Coursera) 
+- Jogo da forca
