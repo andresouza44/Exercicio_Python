@@ -1,5 +1,4 @@
-# 5.1	EXERCÍCIOS:	JOGO	DA	FORCA - script base
-
+# EXERCÍCIOS:	JOGO	DA	FORCA 
 def verifica_letra(letra):  # verificar se existe na palavra secreta
     if len(letra) > 1:
         return print('INVALIDO DIGITE APENAS UMA LETRA')
